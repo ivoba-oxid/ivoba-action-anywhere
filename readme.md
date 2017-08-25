@@ -9,6 +9,7 @@ This module will be obsolete with OXID eShop v6 as it will have this buildin: ht
 1. Copy "copy_this" into your shop root directory. 
 2. empty /tmp directory. 
 3. activate the module under "Erweiterungen->Module->Ivo Bathke: ActionEverywhere".
+4. clear the cache
 
 ## Requirements
 - UTF-8
